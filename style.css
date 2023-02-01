@@ -23,11 +23,9 @@
     transform: translateZ(-40px) scale(5);
 }
 .foreground{
-    transform: translateZ(-10px) scale(2);
+    transform: translateZ(-10px) scale(3);
 }
 .background ,.foreground{
-    left: 0px;
-    top: opx;
     position: absolute;
     height: 100%;
     width: 100%;
